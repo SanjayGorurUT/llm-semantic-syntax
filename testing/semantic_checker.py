@@ -30,15 +30,13 @@ def check_game_logic_tic_tac_toe(code_string):
         return False, "Failed to load module"
     
     try:
-        if not hasattr(module, 'board') and not hasattr(module, 'check_win'):
-            return False, "Missing required functions"
+        if not hasattr(module, 'check_win'):
+            return False, "Missing check_win function"
         
-        if hasattr(module, 'check_win'):
-            test_board_win = [[1, 1, 1], [None, 2, None], [None, None, 2]]
-            if hasattr(module, 'check_win'):
-                result = module.check_win(test_board_win, 1)
-                if not result:
-                    return False, "Win detection failed"
+        test_board = [[1, 1, 1], [None, 2, None], [None, None, 2]]
+        result = module.check_win(test_board, 1)
+        if not result:
+            return False, "Win detection failed"
         
         return True, None
     except Exception as e:

@@ -9,7 +9,7 @@ def evaluate_code(code_string, game_name, runtime_iterations=50):
         'semantic': {'passed': False, 'error': None}
     }
     
-    syntax_ok, error_type, error_msg = validate_syntax(code_string)
+    syntax_ok, _, error_msg = validate_syntax(code_string)
     results['syntax']['passed'] = syntax_ok
     results['syntax']['error'] = error_msg
     
@@ -28,11 +28,15 @@ def evaluate_code(code_string, game_name, runtime_iterations=50):
     return results
 
 def generate_summary(results):
+    syn = results['syntax']['passed']
+    run = results['runtime']['passed']
+    sem = results['semantic']['passed']
+    
     summary = {
-        'syntax_passed': results['syntax']['passed'],
-        'runtime_passed': results['runtime']['passed'],
-        'semantic_passed': results['semantic']['passed'],
-        'overall_passed': results['syntax']['passed'] and results['runtime']['passed'] and results['semantic']['passed']
+        'syntax_passed': syn,
+        'runtime_passed': run,
+        'semantic_passed': sem,
+        'overall_passed': syn and run and sem
     }
     return summary
 
