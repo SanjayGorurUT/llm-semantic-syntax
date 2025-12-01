@@ -5,7 +5,7 @@ import time
 from testing.evaluator import evaluate_code, generate_summary
 from prompts.templates import get_prompt, GAME_PROMPTS
 
-os.environ['GEMINI_API_KEY'] = "AIzaSyD_1pSTy7EohE7zMz_qEGoYlCl4V2buZFQ"
+# API key should be set via environment variable: export GEMINI_API_KEY="your-key-here"
 
 GAMES = ['tic_tac_toe', 'connect_four']
 REPETITIONS = 3

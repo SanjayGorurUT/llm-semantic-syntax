@@ -6,7 +6,7 @@ import importlib.util
 import tempfile
 import sys
 
-os.environ['GEMINI_API_KEY'] = "AIzaSyD_1pSTy7EohE7zMz_qEGoYlCl4V2buZFQ"
+# API key should be set via environment variable: export GEMINI_API_KEY="your-key-here"
 
 GAMES = ['tic_tac_toe', 'connect_four', 'snake_game', 'ball_bouncing', 'snakes_and_ladders']
 REPETITIONS = 10

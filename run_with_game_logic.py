@@ -8,7 +8,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from testing.game_logic_checker import test_game_logic_headless
 from prompts.templates import get_prompt
 
-os.environ['GEMINI_API_KEY'] = "AIzaSyD_1pSTy7EohE7zMz_qEGoYlCl4V2buZFQ"
+# API key should be set via environment variable: export GEMINI_API_KEY="your-key-here"
 os.environ['SDL_VIDEODRIVER'] = 'dummy'
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
 

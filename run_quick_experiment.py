@@ -6,7 +6,7 @@ from testing.syntax_checker import validate_syntax
 from testing.semantic_checker import check_semantic_correctness
 from prompts.templates import get_prompt, GAME_PROMPTS
 
-os.environ['GEMINI_API_KEY'] = "AIzaSyD_1pSTy7EohE7zMz_qEGoYlCl4V2buZFQ"
+# API key should be set via environment variable: export GEMINI_API_KEY="your-key-here"
 
 GAMES = ['tic_tac_toe', 'connect_four', 'snake_game', 'ball_bouncing', 'snakes_and_ladders']
 REPETITIONS = 5
