@@ -1,0 +1,372 @@
+{
+  "tic_tac_toe": {
+    "gemini": [
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4389,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": false,
+        "semantic_passed": true,
+        "code_length": 4716,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "code_length": 4956,
+        "syntax_error": null,
+        "semantic_error": "Missing required game logic components"
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5939,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4727,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5170,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4688,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5224,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5668,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4623,
+        "syntax_error": null,
+        "semantic_error": null
+      }
+    ]
+  },
+  "connect_four": {
+    "gemini": [
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5208,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "code_length": 4872,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Missing board and drop functionality"
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "code_length": 5107,
+        "syntax_error": null,
+        "semantic_error": "Missing pygame import"
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5028,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5271,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5211,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5647,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4761,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4776,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5381,
+        "syntax_error": null,
+        "semantic_error": null
+      }
+    ]
+  },
+  "snake_game": {
+    "gemini": [
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4819,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "code_length": 4832,
+        "syntax_error": null,
+        "semantic_error": "Missing snake movement logic"
+      },
+      {
+        "syntax_passed": false,
+        "semantic_passed": true,
+        "code_length": 4185,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5116,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 3758,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4709,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4451,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4119,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 5444,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4917,
+        "syntax_error": null,
+        "semantic_error": null
+      }
+    ]
+  },
+  "ball_bouncing": {
+    "gemini": [
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 1986,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "code_length": 1708,
+        "syntax_error": null,
+        "semantic_error": "Missing velocity or bounce logic"
+      },
+      {
+        "syntax_passed": false,
+        "semantic_passed": true,
+        "code_length": 1840,
+        "syntax_error": "NameError: name 'pygame' is not defined",
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 1714,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 1604,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 2029,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 1880,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 2169,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 1666,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 1728,
+        "syntax_error": null,
+        "semantic_error": null
+      }
+    ]
+  },
+  "snakes_and_ladders": {
+    "gemini": [
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4048,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "code_length": 3865,
+        "syntax_error": null,
+        "semantic_error": "Missing ladder and snake mechanics"
+      },
+      {
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "code_length": 4146,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Missing position tracking"
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4466,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4456,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4786,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4184,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4405,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4228,
+        "syntax_error": null,
+        "semantic_error": null
+      },
+      {
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "code_length": 4953,
+        "syntax_error": null,
+        "semantic_error": null
+      }
+    ]
+  }
+}

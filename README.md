@@ -73,6 +73,18 @@ Games can be played interactively through pytest:
 pytest tests/ -k play
 ```
 
+### Monitoring Experiments
+
+Check experiment status:
+```bash
+python check_status.py
+```
+
+Continuous monitoring:
+```bash
+./monitor.sh
+```
+
 ## Testing Framework
 
 The automated testing framework includes:

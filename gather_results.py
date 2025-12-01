@@ -9,7 +9,10 @@ from prompts.templates import get_prompt, GAME_PROMPTS
 GAMES = list(GAME_PROMPTS.keys())
 REPETITIONS = 20
 TEMPERATURE = 0.75
-RUNTIME_ITERATIONS = 50
+RUNTIME_ITERATIONS = 10
+
+os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY', '')
+os.environ['GEMINI_API_KEY'] = os.getenv('GEMINI_API_KEY', '')
 
 def call_llm_api(prompt, model_name, temperature=TEMPERATURE):
     if model_name == "openai":
@@ -17,13 +20,26 @@ def call_llm_api(prompt, model_name, temperature=TEMPERATURE):
             import openai
             client = openai.OpenAI()
             response = client.chat.completions.create(
-                model="gpt-4",
+                model="gpt-4o-mini",
                 messages=[{"role": "user", "content": prompt}],
                 temperature=temperature
             )
             return response.choices[0].message.content
         except Exception as e:
             print(f"OpenAI API error: {e}")
+            return None
+    elif model_name == "gemini":
+        try:
+            import google.generativeai as genai
+            genai.configure(api_key=os.getenv('GEMINI_API_KEY'))
+            model = genai.GenerativeModel('gemini-2.0-flash')
+            response = model.generate_content(
+                prompt,
+                generation_config={'temperature': temperature}
+            )
+            return response.text
+        except Exception as e:
+            print(f"Gemini API error: {e}")
             return None
     elif model_name == "anthropic":
         try:
@@ -71,25 +87,36 @@ def extract_code_from_response(response):
 
 def run_experiment(game_name, model_name, repetition):
     prompt = get_prompt(game_name)
-    print(f"  Rep {repetition+1}/{REPETITIONS}: Generating code...")
+    print(f"  Rep {repetition+1}/{REPETITIONS}: Generating code...", flush=True)
     
     response = call_llm_api(prompt, model_name, TEMPERATURE)
     if response is None:
+        print(f"  Rep {repetition+1}/{REPETITIONS}: API call failed", flush=True)
         return None
     
+    print(f"  Rep {repetition+1}/{REPETITIONS}: Extracting code...", flush=True)
     code = extract_code_from_response(response)
     if not code:
+        print(f"  Rep {repetition+1}/{REPETITIONS}: Code extraction failed", flush=True)
         return None
     
-    print(f"  Rep {repetition+1}/{REPETITIONS}: Evaluating...")
+    print(f"  Rep {repetition+1}/{REPETITIONS}: Evaluating (this may take a minute)...", flush=True)
     results = evaluate_code(code, game_name, RUNTIME_ITERATIONS)
     summary = generate_summary(results)
+    print(f"  Rep {repetition+1}/{REPETITIONS}: Done - Syntax:{summary['syntax_passed']} Runtime:{summary['runtime_passed']} Semantic:{summary['semantic_passed']}", flush=True)
     
     return {
         'code': code,
         'results': results,
         'summary': summary
     }
+
+def save_incremental(all_results, output_file):
+    try:
+        with open(output_file, 'w') as f:
+            json.dump(all_results, f, indent=2)
+    except Exception as e:
+        print(f"Warning: Could not save results: {e}")
 
 def main():
     models = []
@@ -100,7 +127,13 @@ def main():
         print("Example: python gather_results.py openai,anthropic")
         return
     
+    output_file = f"experiment_results_{int(time.time())}.json"
     all_results = {}
+    
+    print(f"Results will be saved incrementally to: {output_file}")
+    print(f"Starting experiment with {len(GAMES)} games, {REPETITIONS} repetitions each\n")
+    
+    save_incremental(all_results, output_file)
     
     for game in GAMES:
         print(f"\n{'='*60}")
@@ -123,6 +156,7 @@ def main():
                         'summary': {'syntax_passed': False, 'runtime_passed': False, 'semantic_passed': False, 'overall_passed': False}
                     })
                 
+                save_incremental(all_results, output_file)
                 time.sleep(1)
             
             passed_counts = {'syntax': 0, 'runtime': 0, 'semantic': 0, 'overall': 0}
@@ -143,10 +177,8 @@ def main():
             print(f"    Runtime: {passed_counts['runtime']}/{REPETITIONS}")
             print(f"    Semantic: {passed_counts['semantic']}/{REPETITIONS}")
             print(f"    Overall: {passed_counts['overall']}/{REPETITIONS}")
-    
-    output_file = f"experiment_results_{int(time.time())}.json"
-    with open(output_file, 'w') as f:
-        json.dump(all_results, f, indent=2)
+            
+            save_incremental(all_results, output_file)
     
     print(f"\n\nAll results saved to {output_file}")
     

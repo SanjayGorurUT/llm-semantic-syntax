@@ -1,0 +1,82 @@
+{
+  "tic_tac_toe": {
+    "gemini": {
+      "total": 10,
+      "syntax": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "semantic": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "game_logic": null
+    }
+  },
+  "connect_four": {
+    "gemini": {
+      "total": 10,
+      "syntax": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "semantic": {
+        "passed": 8,
+        "failed": 2,
+        "percentage": 80.0
+      },
+      "game_logic": null
+    }
+  },
+  "snake_game": {
+    "gemini": {
+      "total": 10,
+      "syntax": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "semantic": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "game_logic": null
+    }
+  },
+  "ball_bouncing": {
+    "gemini": {
+      "total": 10,
+      "syntax": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "semantic": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "game_logic": null
+    }
+  },
+  "snakes_and_ladders": {
+    "gemini": {
+      "total": 10,
+      "syntax": {
+        "passed": 9,
+        "failed": 1,
+        "percentage": 90.0
+      },
+      "semantic": {
+        "passed": 8,
+        "failed": 2,
+        "percentage": 80.0
+      },
+      "game_logic": null
+    }
+  }
+}

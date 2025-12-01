@@ -1,0 +1,32 @@
+{
+  "tic_tac_toe": {
+    "gemini": {
+      "syntax": 9,
+      "semantic": 9
+    }
+  },
+  "connect_four": {
+    "gemini": {
+      "syntax": 9,
+      "semantic": 8
+    }
+  },
+  "snake_game": {
+    "gemini": {
+      "syntax": 9,
+      "semantic": 9
+    }
+  },
+  "ball_bouncing": {
+    "gemini": {
+      "syntax": 9,
+      "semantic": 9
+    }
+  },
+  "snakes_and_ladders": {
+    "gemini": {
+      "syntax": 9,
+      "semantic": 8
+    }
+  }
+}
