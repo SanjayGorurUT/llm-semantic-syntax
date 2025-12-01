@@ -40,7 +40,123 @@ def test_game_logic_headless(code_string, game_name):
             sys.modules["test_game"] = module
             
             try:
-                spec.loader.exec_module(module)
+                # Parse AST and transform to remove blocking code
+                try:
+                    tree = ast.parse(code_string, filename=temp_file)
+                except SyntaxError as e:
+                    return False, f"Syntax error: {str(e)[:200]}"
+                
+                # Transform AST to remove main loops and blocking calls
+                class RemoveBlockingCode(ast.NodeTransformer):
+                    def visit_If(self, node):
+                        # Remove if __name__ == '__main__' blocks
+                        if (isinstance(node.test, ast.Compare) and
+                            isinstance(node.test.left, ast.Name) and
+                            node.test.left.id == '__name__'):
+                            return None  # Remove the entire if block
+                        return self.generic_visit(node)
+                    
+                    def visit_While(self, node):
+                        # Comment out while loops (main game loops)
+                        return None
+                    
+                    def visit_Expr(self, node):
+                        # Remove top-level function calls that might block
+                        if isinstance(node.value, ast.Call):
+                            if isinstance(node.value.func, ast.Attribute):
+                                # Check for pygame.init(), pygame.quit(), etc.
+                                if (hasattr(node.value.func, 'attr') and 
+                                    node.value.func.attr in ['init', 'quit', 'main', 'run']):
+                                    return None
+                            elif isinstance(node.value.func, ast.Name):
+                                # Check for main(), run_game(), etc.
+                                if node.value.func.id in ['main', 'run_game', 'run']:
+                                    return None
+                        return self.generic_visit(node)
+                
+                transformer = RemoveBlockingCode()
+                safe_tree = transformer.visit(tree)
+                ast.fix_missing_locations(safe_tree)
+                
+                # Create a safe execution environment
+                safe_globals = {
+                    '__name__': 'test_module',  # Not __main__ to skip main blocks
+                    '__file__': temp_file,
+                    '__builtins__': __builtins__,
+                }
+                
+                # Mock pygame completely
+                class MockPygame:
+                    def init(self):
+                        return (True, True)
+                    def quit(self):
+                        pass
+                    def display(self):
+                        class MockDisplay:
+                            def set_mode(self, *args, **kwargs):
+                                return type('Surface', (), {'blit': lambda *a, **k: None, 
+                                                           'fill': lambda *a, **k: None,
+                                                           'get_rect': lambda: type('Rect', (), {'x':0,'y':0,'width':100,'height':100})()})()
+                            def flip(self):
+                                pass
+                        return MockDisplay()
+                    def event(self):
+                        class MockEvent:
+                            @staticmethod
+                            def get():
+                                return []
+                        return MockEvent()
+                    def time(self):
+                        class MockClock:
+                            def tick(self, *args):
+                                return 0
+                        return MockClock()
+                    def font(self):
+                        class MockFont:
+                            @staticmethod
+                            def Font(*args, **kwargs):
+                                return type('Font', (), {'render': lambda *a, **k: type('Surface', (), {})()})()
+                        return MockFont()
+                
+                safe_globals['pygame'] = MockPygame()
+                safe_globals['sys'] = sys
+                safe_globals['os'] = os
+                safe_globals['random'] = __import__('random')
+                safe_globals['math'] = __import__('math')
+                if HAS_NUMPY:
+                    safe_globals['numpy'] = np
+                    safe_globals['np'] = np
+                
+                # Execute with timeout
+                import threading
+                exec_result = [None]
+                exec_exception = [None]
+                
+                def exec_module():
+                    try:
+                        compiled = compile(safe_tree, temp_file, 'exec')
+                        exec(compiled, safe_globals, module.__dict__)
+                        for key, value in safe_globals.items():
+                            if not key.startswith('__'):
+                                setattr(module, key, value)
+                        exec_result[0] = True
+                    except Exception as e:
+                        exec_exception[0] = e
+                
+                exec_thread = threading.Thread(target=exec_module)
+                exec_thread.daemon = True
+                exec_thread.start()
+                exec_thread.join(timeout=10)
+                
+                if exec_thread.is_alive():
+                    return False, "Module execution timed out"
+                
+                if exec_exception[0]:
+                    return False, f"Module execution error: {str(exec_exception[0])[:200]}"
+                
+                if not exec_result[0]:
+                    return False, "Module execution failed"
+                    
             except Exception as e:
                 return False, f"Module execution error: {str(e)[:200]}"
             
