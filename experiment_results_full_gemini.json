@@ -1,0 +1,4522 @@
+{
+  "tic_tac_toe": {
+    "gemini": [
+      {
+        "code_length": 5038,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5205,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6032,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4596,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5383,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5385,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4570,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5552,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4854,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5704,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing required game logic components",
+        "game_logic_error": "Collision detection not working"
+      },
+      {
+        "code_length": 5468,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4585,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5196,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5266,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5761,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5262,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Game state update failed"
+      },
+      {
+        "code_length": 5295,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5814,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5822,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5154,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4969,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4913,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4984,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5925,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5612,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5105,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5805,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4942,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5651,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5181,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4444,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5061,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5263,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5566,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5491,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5308,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5986,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5385,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5607,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4677,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5035,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4950,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5124,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5170,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4698,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5573,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5220,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5548,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4774,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4868,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6134,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Game state update failed"
+      },
+      {
+        "code_length": 5264,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4714,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5201,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4933,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5198,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5344,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5377,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4780,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5452,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4740,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4607,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4391,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5674,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5898,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4719,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Win detection logic incorrect"
+      },
+      {
+        "code_length": 5741,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5335,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5741,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4859,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4354,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6045,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5307,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6022,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5173,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6025,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4951,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5671,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5810,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5512,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5417,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4764,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4995,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5663,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5790,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4425,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5391,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5560,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4573,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5700,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5794,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4719,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4616,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4835,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4938,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5126,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6011,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4348,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4872,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5632,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      }
+    ]
+  },
+  "connect_four": {
+    "gemini": [
+      {
+        "code_length": 5386,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5672,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4531,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5220,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5608,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5217,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5804,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4802,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5196,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5087,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4841,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Game state update failed"
+      },
+      {
+        "code_length": 5134,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5366,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4673,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5157,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4893,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5774,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4751,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4443,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5695,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5231,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5557,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5246,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5157,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4770,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4730,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5605,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5677,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5681,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5342,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5876,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5761,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5484,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4670,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4690,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5204,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4795,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5463,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5092,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5180,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4584,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5431,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5361,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4504,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5017,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5567,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4923,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5134,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4468,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5732,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4950,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6180,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5027,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4764,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5303,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5070,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5854,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5067,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5939,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4739,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4659,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5829,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5273,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4511,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5257,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5605,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5519,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5315,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5010,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5542,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5796,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4853,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5870,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4538,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4745,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5791,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5229,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5067,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4835,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5147,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5765,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4772,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5937,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4913,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4795,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5086,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Game state management incomplete",
+        "game_logic_error": "Win detection logic incorrect"
+      },
+      {
+        "code_length": 5325,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6074,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6064,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5928,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5354,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4791,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5652,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4731,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5723,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5508,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5105,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5726,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4840,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5272,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      }
+    ]
+  },
+  "snake_game": {
+    "gemini": [
+      {
+        "code_length": 4722,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5533,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5662,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5860,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5380,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5032,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6043,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5398,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4615,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6060,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4906,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5477,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5873,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4598,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5349,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Game state management incomplete",
+        "game_logic_error": "Move validation failed"
+      },
+      {
+        "code_length": 5578,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4602,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5665,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4815,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4719,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5492,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5295,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5744,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5239,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Win condition check missing",
+        "game_logic_error": "Win detection logic incorrect"
+      },
+      {
+        "code_length": 4837,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5701,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4882,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5887,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5004,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4802,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5139,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4913,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5816,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5668,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5539,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4693,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5081,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5122,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5254,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5013,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5640,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5949,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5881,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5019,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4500,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5104,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4502,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4973,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4873,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5613,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5348,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4685,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5169,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5543,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5488,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4833,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4768,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4645,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5759,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5556,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5894,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5223,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Game logic test timeout"
+      },
+      {
+        "code_length": 5082,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4570,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4833,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5167,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5869,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4454,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5356,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5944,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5077,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5283,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5067,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6008,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5216,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5646,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5387,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5086,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5196,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5189,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4975,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4749,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4877,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5893,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4711,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5238,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5591,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4611,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6075,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5658,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5758,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5566,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5101,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4496,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5504,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5639,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4902,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5325,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Move validation failed"
+      },
+      {
+        "code_length": 4642,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6037,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      }
+    ]
+  },
+  "ball_bouncing": {
+    "gemini": [
+      {
+        "code_length": 5463,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5754,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5461,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5062,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4917,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4637,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5936,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5214,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5027,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5935,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5042,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4882,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5236,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5637,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6131,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5350,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5232,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4954,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5008,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5502,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6008,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4438,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4394,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5142,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4947,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5654,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5176,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5545,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4531,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5874,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5493,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4952,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5479,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5453,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4959,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5340,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4634,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5583,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Collision detection not working"
+      },
+      {
+        "code_length": 4810,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5600,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4570,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5703,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5534,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5089,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5643,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5847,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4416,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5473,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5395,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5743,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5019,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4747,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4770,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5342,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4913,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5749,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5147,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5668,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4631,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4440,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4885,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5283,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6045,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5602,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5781,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4922,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4856,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4912,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5460,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5529,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6004,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5350,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5341,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4887,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4475,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6065,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Game state update failed"
+      },
+      {
+        "code_length": 5338,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5349,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4323,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5441,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5663,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4660,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5968,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4971,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Win detection logic incorrect"
+      },
+      {
+        "code_length": 5120,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4590,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5459,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4447,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5390,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5382,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5814,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4958,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5571,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5855,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5421,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5168,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4946,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4532,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5751,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5242,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      }
+    ]
+  },
+  "snakes_and_ladders": {
+    "gemini": [
+      {
+        "code_length": 4860,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6104,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4699,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5424,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5660,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5624,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4841,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5935,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4800,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5171,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4600,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5807,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5623,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Game state management incomplete",
+        "game_logic_error": "Collision detection not working"
+      },
+      {
+        "code_length": 6064,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5825,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5010,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5004,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5153,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5280,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5218,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4978,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5062,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5434,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5355,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5060,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4801,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5031,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5636,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5628,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4742,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5764,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5907,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5393,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4843,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5435,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5733,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4505,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5525,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5345,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5781,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4678,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5206,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5682,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4664,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5726,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5768,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4362,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5571,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5549,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5791,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5698,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5000,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5356,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5484,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5140,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4855,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4587,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5157,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5323,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5828,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4497,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5245,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4796,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5075,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5779,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5521,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4789,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4716,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4687,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5072,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5089,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4570,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4383,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5945,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4724,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5278,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4604,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4996,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5956,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5164,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4460,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5154,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5814,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5523,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5723,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: 'return' outside function",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 6160,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5283,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4969,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5946,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": "Module execution error: function signature mismatch"
+      },
+      {
+        "code_length": 5154,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4844,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: unexpected EOF while parsing",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5178,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5623,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4433,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4860,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "IndentationError: expected an indented block",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5459,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5516,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5422,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 4712,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid character in identifier",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      },
+      {
+        "code_length": 5625,
+        "syntax_passed": false,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": "SyntaxError: invalid syntax at line 45",
+        "semantic_error": "Syntax check failed",
+        "game_logic_error": "Syntax check failed"
+      }
+    ]
+  }
+}
