@@ -1,0 +1,922 @@
+{
+  "tic_tac_toe": {
+    "anthropic": [
+      {
+        "code_length": 7899,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10382,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7324,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9317,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9263,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7778,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10037,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9170,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9199,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8916,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7161,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8301,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 11210,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10222,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6992,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9722,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing check_win function",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10159,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7938,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7424,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7438,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      }
+    ]
+  },
+  "connect_four": {
+    "anthropic": [
+      {
+        "code_length": 8632,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6995,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7190,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7300,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8538,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8980,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6429,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8590,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5714,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7658,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8561,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6697,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7893,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6612,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6956,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7508,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7752,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8049,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8656,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8218,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      }
+    ]
+  },
+  "snakes_and_ladders": {
+    "anthropic": [
+      {
+        "code_length": 9958,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9577,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10633,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 11308,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10161,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9126,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8789,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 11547,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 11426,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10500,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10683,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9850,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9788,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9087,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Failed to load module",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 11087,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8815,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9462,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10510,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9007,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 10731,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      }
+    ]
+  },
+  "snake_game": {
+    "anthropic": [
+      {
+        "code_length": 5758,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7429,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5402,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7581,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7653,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5740,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5703,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6312,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 9008,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8307,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5688,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7501,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6563,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6856,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7231,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7908,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8350,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6927,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      },
+      {
+        "code_length": 8298,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6470,
+        "syntax_passed": true,
+        "semantic_passed": false,
+        "game_logic_passed": false,
+        "syntax_error": null,
+        "semantic_error": "Missing Snake class or logic",
+        "game_logic_error": null
+      }
+    ]
+  },
+  "ball_bouncing": {
+    "anthropic": [
+      {
+        "code_length": 7242,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7718,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5667,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6651,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6247,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7079,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7811,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7486,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6504,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6589,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7199,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6058,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4953,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4872,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 5409,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6918,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 6167,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 7175,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4561,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      },
+      {
+        "code_length": 4899,
+        "syntax_passed": true,
+        "semantic_passed": true,
+        "game_logic_passed": true,
+        "syntax_error": null,
+        "semantic_error": null,
+        "game_logic_error": null
+      }
+    ]
+  }
+}
