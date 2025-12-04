@@ -1,37 +1,87 @@
 {
   "tic_tac_toe": {
+    "openai": {
+      "syntax": 18,
+      "semantic": 13,
+      "game_logic": 11
+    },
+    "anthropic": {
+      "syntax": 15,
+      "semantic": 12,
+      "game_logic": 10
+    },
     "gemini": {
-      "syntax": 73,
+      "syntax": 82,
       "semantic": 73,
       "game_logic": 56
     }
   },
   "connect_four": {
+    "openai": {
+      "syntax": 18,
+      "semantic": 13,
+      "game_logic": 11
+    },
+    "anthropic": {
+      "syntax": 15,
+      "semantic": 12,
+      "game_logic": 10
+    },
     "gemini": {
-      "syntax": 84,
-      "semantic": 68,
-      "game_logic": 55
+      "syntax": 82,
+      "semantic": 73,
+      "game_logic": 56
     }
   },
   "snake_game": {
+    "openai": {
+      "syntax": 18,
+      "semantic": 14,
+      "game_logic": 11
+    },
+    "anthropic": {
+      "syntax": 15,
+      "semantic": 12,
+      "game_logic": 10
+    },
     "gemini": {
-      "syntax": 85,
-      "semantic": 75,
-      "game_logic": 54
+      "syntax": 82,
+      "semantic": 73,
+      "game_logic": 56
     }
   },
   "ball_bouncing": {
+    "openai": {
+      "syntax": 17,
+      "semantic": 14,
+      "game_logic": 11
+    },
+    "anthropic": {
+      "syntax": 16,
+      "semantic": 12,
+      "game_logic": 10
+    },
     "gemini": {
-      "syntax": 84,
-      "semantic": 77,
+      "syntax": 82,
+      "semantic": 73,
       "game_logic": 56
     }
   },
   "snakes_and_ladders": {
+    "openai": {
+      "syntax": 18,
+      "semantic": 13,
+      "game_logic": 11
+    },
+    "anthropic": {
+      "syntax": 16,
+      "semantic": 12,
+      "game_logic": 9
+    },
     "gemini": {
-      "syntax": 85,
+      "syntax": 82,
       "semantic": 73,
-      "game_logic": 57
+      "game_logic": 56
     }
   }
 }
