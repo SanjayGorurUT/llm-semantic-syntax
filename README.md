@@ -99,17 +99,3 @@ Results are reported in a (3 × N × M) matrix where:
 - N = number of games
 - M = number of LLM models
 
-## Next Steps
-
-Based on the project proposal:
-
-1. **Week 1-2 (Completed)**: Game implementations and testing framework
-2. **Week 3**: Run experiments with LLMs (OpenAI, Anthropic, local models)
-   - Use `gather_results.py` to collect data
-   - Run 20 repetitions per game per model at temperature 0.75
-3. **Week 4**: Expand to more complex games if needed
-4. **Week 5**: Error classification and analysis
-   - Use `analyze_results.py` to generate statistics
-   - Classify error types (syntax, runtime, semantic)
-5. **Week 6-7**: Visualization and report generation
-
